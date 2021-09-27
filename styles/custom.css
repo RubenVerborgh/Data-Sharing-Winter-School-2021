@@ -24,6 +24,10 @@ ul.inline li {
   line-height: 1.7;
 }
 
+.title.slide h2 {
+  font-size: 1.9em;
+}
+
 .prefix {
   opacity: .5;
 }
